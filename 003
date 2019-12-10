@@ -1,0 +1,9 @@
+n=100
+if n<=10 and n<=29:
+   print("TOOO LOW")
+elif n<=35  and n<=40:
+   print("TOO LOW")
+elif n<=100 and n<=101:
+   print("HIGH")
+else:
+  print("NONE")
